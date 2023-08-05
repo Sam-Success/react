@@ -1,0 +1,75 @@
+.DriversForm{
+    background: #282828;
+    color: #FFF;
+    padding: 59px 58px 100px 55px;
+}
+.MyRide{
+    display: flex;
+    align-items: center;
+}
+.DriversForm form{
+    padding: 30px;
+}
+.DriversForm input{
+    padding-top: px;
+    padding-left: 10px;
+    height: 57px;
+    width: 100%;
+    background: #282828;
+    border: 1px solid #FFF;
+    border-radius: 5.5px;
+    color: #FFF;
+}
+.DriversForm button{
+    background: #FBA403;
+    color: #FFF;
+    margin-top: 20px;
+    min-width: 150px;
+    padding: 20px;
+    border-radius: 5px;
+}
+.DriversForm h4, h3{
+    color: #FBA403;
+}
+fieldset {
+    width: 97%;
+    background: #282828;
+    border: 1px solid #FFF;
+    border-radius: 5.5px;
+} 
+.fieldset input {
+    background: #282828;
+    border: 1px;
+    border-radius: 5.5px; 
+}
+.first-inputs {
+    display: flex;
+    width: 100%;
+    gap: 10px;
+}
+.last-inputs{
+    column-gap: 20px;
+}
+.switch{
+    display: flex;
+    justify-content: space-between;
+}
+.Select-car{
+    display: flex;
+    gap: 12px;
+    text-align: center;
+    color: #FFF;
+}
+.Select-car h3{
+    color: #FFF;
+}
+.cars{
+    align-items: center;
+    max-width: 100%;
+    padding: 20px 50px 10px 50px;
+    height: auto;
+    background: #282828;
+    border: 1px solid #FFF;
+    border-radius: 5px;
+    
+}

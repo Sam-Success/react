@@ -1,0 +1,45 @@
+.CarType{
+    padding: 59px;
+    overflow: hidden;
+    text-align: center;
+    background: #242424;
+}
+.CarType h3{
+   color: #FBA403;;
+}
+.CarType h2{
+    color: #FFF;
+}
+.Cards{
+    justify-content: center;
+    text-align: start;
+    display: flex;
+}
+.card{
+background: #383838;
+max-width: auto;
+height: 100%;
+padding: 12px;
+align-items: flex-start;
+}
+.card-body{
+    width: 100%;
+    background: #4F4F4F;
+    padding: 14px 15px;
+}
+.card-body p{
+color: #B3B3B3;
+font-family: Roboto;
+font-size: 16px;
+line-height: 25px; /* 156.25% */
+}
+.card-body h4{
+    color: #FFF;
+}
+.card-body a{
+    text-decoration: none;
+    color: #FBA403;
+}
+.card-img-top{
+    width: 100%;
+}

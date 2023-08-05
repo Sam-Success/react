@@ -1,0 +1,45 @@
+.Booking {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 42px;
+  align-self: stretch;
+  background: #2c2c2c;
+  color: #fff;
+  display: flex;
+  padding-left: 80px;
+  padding-right: 80px;
+  padding-top: 74px;
+}
+.myRide{
+    color: #FBA403;
+}
+.legend {
+  padding-left: 33px;
+}
+.inline {
+  display: flex;
+  justify-content: space-between;
+}
+.inline button {
+    border-radius: 4px;
+background: #FBA403;
+color: #FFF;
+}
+.inline h4{
+    color: #FBA403;
+}
+.Booking img {
+  max-width: 610px;
+  height: 593px;
+  flex-shrink: 0;
+}
+.formBox {
+  max-width: 610px;
+  height: 593px;
+  justify-content: center;
+}
+.form input{
+    background: #2c2c2c;
+    border: none;
+}

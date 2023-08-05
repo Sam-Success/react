@@ -1,0 +1,22 @@
+.Footer {
+  display: flex;
+  max-width: 100%;
+  background: #242424;
+  color: #fff;
+  gap: 80px;
+  padding: 80px 40px;
+  
+}
+.Links {
+  justify-content: space-between;
+  gap: 20px;
+  display: flex;
+  min-width: 60%;
+}
+.myride {
+ min-width: 30%;
+}
+.social-icons{
+    display: flex;
+    gap: 20px;
+}
